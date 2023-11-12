@@ -19,6 +19,9 @@
 ## Overview
 This repository contains the source code for the tutorial [**Build a Shopping Cart with Vue 3, Vue Router, & VueX**](https://www.youtube.com/watch?v=oWt4jYThJCo). This tutorial demonstrates how to create a functional shopping cart using Vue.js, showcasing the integration of Vue Router and VueX for state management.
 
+![Shopping Cart Layout](https://smartmatt.pl/github/vue-vuex-shopping-cart/vue-shopping-cart.png)
+<br>*Shopping Cart Layout*
+
 ## Key Features
 - **Vue 3 Integration**: Utilize the latest features of Vue 3 for building responsive and dynamic UIs.
 - **Vue Router**: Implement navigation between different components of the shopping cart.
